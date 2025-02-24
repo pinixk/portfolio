@@ -1,6 +1,13 @@
 ## 기술스택
-<img src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=blue"> <img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=##6DB33F"> <img src="https://img.shields.io/badge/Nodejs-black?style=for-the-badge&logo=nodedotjs&logoColor=#5FA04E"> 
-<img src="https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonwebservices&logoColor=#5FA04E"> <img src="https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql&logoColor=#4479F1"> <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=#F05032"> <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=#181717">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Nodejs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/Aws-5FA04E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/Aws Ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/Aws Rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/Aws s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479F1?style=for-the-badge&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 
 ## 간략 소개
 Flutter, Java Spring boot, Node.js, AWS, MySQL 등의 기술을 활용하여 다양한 애플리케이션을 개발해 왔습니다.
