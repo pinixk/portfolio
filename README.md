@@ -124,6 +124,6 @@ Flutter 최신 업데이트를 계속 주시하여 개발을 해보며 현업에
     - 필수적 데이터 DB 이전
     - 서버 AWS로 이전 준비
     - Flutter 초기 환경설정과 개발환경 구축
-    - 간단한 Backend 서버내 API 통신 경험
+    - Backend CRUD Api 구현 및 통신
     - 기존 UX/UI를 최대한 살리되 개선
     - QR 정확도 향상
