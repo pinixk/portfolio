@@ -22,9 +22,29 @@ Flutter 최신 업데이트를 계속 주시하여 개발을 해보며 현업에
 또한 클린코드, 리팩터링, 자료구조 도서를 구입하여 조금씩 학습을 진행하고 있습니다
 
 ## 경력
-### ㈜ 위캔 2022.12 ~ 2024.01(1년 2개월)
+
+### ㈜ 커네팅 2024.11 ~ 2025.02(4개월)
+
+### 1. [위워크 앱](https://github.com/pinixk/portfolio_wewalk_app)
+- 연계/소속회사 : ㈜ 커네팅
+- 주요 업무 : 기존 PHP기반의 웹앱형태의 앱에서 Flutter, Java Spring boot를 활용한 네이티브 앱으로 전환
+- 담당 역할 : Flutter UX/UI, 간단한 Spring boot Api 
+- 기술 스택 : FLUTTER, Java Spring boot, AWS, MySQL, GitLab
+- 업무 기간 : 2024.11 ~ 2025.02 (약 4개월)
+- 개발 인원 : 3명
+- 상세 내용 :
+    - 기존 앱 기술 파악
+    - 기존 DB 파악
+    - 필수적 데이터 DB 이전
+    - 서버 AWS로 이전 준비
+    - Flutter 초기 환경설정과 개발환경 구축
+    - Backend CRUD Api 구현 및 통신
+    - 기존 UX/UI를 최대한 살리되 개선
+    - QR 정확도 향상
 
 <br/>
+
+### ㈜ 위캔 2022.12 ~ 2024.01(1년 2개월)
 
 ### 1. [위캔 필라테스 어플리케이션](https://github.com/pinixk/portfolio-wecan-app)
 - 연계/소속회사 : ㈜ 위캔
@@ -115,24 +135,3 @@ Flutter 최신 업데이트를 계속 주시하여 개발을 해보며 현업에
     - Flutter 초기 환경설정과 개발환경 구축
     - 간단한 Backend 서버내 API 통신 경험
     - 유저단, 관리자단 프론트엔드 개발
-
-<hr/>
-
-### ㈜ 커네팅 2024.11 ~ 2025.02(4개월)
-
-### 1. [위워크 앱](https://github.com/pinixk/portfolio_wewalk_app)
-- 연계/소속회사 : ㈜ 커네팅
-- 주요 업무 : 기존 PHP기반의 웹앱형태의 앱에서 Flutter, Java Spring boot를 활용한 네이티브 앱으로 전환
-- 담당 역할 : Flutter UX/UI, 간단한 Spring boot Api 
-- 기술 스택 : FLUTTER, Java Spring boot, AWS, MySQL, GitLab
-- 업무 기간 : 2024.11 ~ 2025.02 (약 4개월)
-- 개발 인원 : 3명
-- 상세 내용 :
-    - 기존 앱 기술 파악
-    - 기존 DB 파악
-    - 필수적 데이터 DB 이전
-    - 서버 AWS로 이전 준비
-    - Flutter 초기 환경설정과 개발환경 구축
-    - Backend CRUD Api 구현 및 통신
-    - 기존 UX/UI를 최대한 살리되 개선
-    - QR 정확도 향상
