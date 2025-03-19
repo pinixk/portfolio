@@ -135,3 +135,21 @@ Flutter 최신 업데이트를 계속 주시하여 개발을 해보며 현업에
     - Flutter 초기 환경설정과 개발환경 구축
     - 간단한 Backend 서버내 API 통신 경험
     - 유저단, 관리자단 프론트엔드 개발
+
+<br/>
+
+### 6. Flutter 하이브리드 앱 제작
+- 연계/소속회사 : ㈜ 커네팅
+- 주요 업무 : Php 웹을 Flutter로 패키징하여 하이브리드 웹앱 개발 및 배포
+- 담당 역할 : 하이브리드 웹앱 개발 및 Google Playstore, Appstore 출시
+- 기술 스택 : FLUTTER, Firebase, Php, Mysql, GitLab
+- 업무 기간 : 2024.11 ~ 2025.02 (약 4개월)
+- 개발 인원 : 1명
+- 상세 내용 :
+    - Php 코드 파악 및 필요 네이티브 기술 파악
+    - Firebase를 이용한 Google Admob, FCM 구현
+    - 웹에서의 Flow와 맞게 route 조정
+    - Google Playstore, Appstore 심사 기준 파악
+    - 앱 내부 테스트
+    - 배포 및 출시
+    - 총 4개의 하이브리드 웹앱 출시
