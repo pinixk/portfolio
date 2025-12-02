@@ -23,7 +23,7 @@ Flutter 최신 업데이트를 계속 주시하여 개발을 해보며 현업에
 
 ## 경력
 
-### (주) 에이치아이티 2025.04 ~
+### (주) 에이치아이티 2025.04 ~ 2025.06
 
 ### 1. [Wedding Pro](https://github.com/pinixk/portfolio_wedding_pro_web)
 - 연계/소속회사 : ㈜ 에이치아이티
